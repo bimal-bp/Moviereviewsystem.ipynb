@@ -1,0 +1,2 @@
+# Moviereviewsystem.ipynb
+SENTIMENT ANALYSIS WITH LR,BNB,AND GNB WITH NLP
